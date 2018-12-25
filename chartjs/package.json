@@ -1,0 +1,24 @@
+{
+  "name": "team17",
+  "version": "1.0.0",
+  "description": "![build badge](https://api.travis-ci.com/CSCC01/Team17.svg?token=zqaFXskyNjZGfENjo1zH&branch=master)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSCC01/Team17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSCC01/Team17/issues"
+  },
+  "homepage": "https://github.com/CSCC01/Team17#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}

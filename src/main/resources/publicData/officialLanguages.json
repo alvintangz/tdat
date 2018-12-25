@@ -1,0 +1,12 @@
+{
+  "graph": "bar",
+  "type": "trend",
+  "mainTitle": "Knowledge of Official Languages",
+  "xAxisTitle": "Languages",
+  "xAxisLabels": ["English", "French", "English and French", "Neither English nor French"],
+  "yAxisTitle": "Value",
+  "dataSet": [
+    { "header": "2011", "data": [2222700, 2975, 227380, 136040] },
+    { "header": "2016", "data": [2323235, 2720, 245695, 132765] }
+  ]
+}

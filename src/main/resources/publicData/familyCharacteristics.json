@@ -1,0 +1,12 @@
+{
+    "graph": "bar",
+    "type": "distribution",
+    "mainTitle": "Family characteristics",
+    "xAxisTitle": "Census families in private households by family size",
+    "xAxisLabels": ["2 persons", "3 persons", "4 persons", "5 or more persons"],
+    "yAxisTitle": "Value",
+    "dataSet": [
+      { "header": "Toronto", "data": [344110, 174600, 143250, 56795] }
+    ]
+  }
+  
